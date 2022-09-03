@@ -37,11 +37,16 @@ html {
 
 /* general styles */
 body {
+  min-height: 100vh;
   font-family: var(--ff-primary);
   font-size: var(--fs-primary);
   font-weight: var(--fw-primary);
   color: var(--clr-neutral-gray);
   background-color: var(--clr-neutral-grayish-blue);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 /* styles */
