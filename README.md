@@ -5,5 +5,5 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 ## Links:
 Live site: https://challenge-testimonials-grid-section.netlify.app/
 ## Built with:
-* HTML
+* HTML5
 * CSS
